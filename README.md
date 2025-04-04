@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammed Samed</h1>
 <h3 align="center">A passionate Mobil App developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **kotlin and Java**
-
+- 🔭 I’m currently working on **C,Java,Python and Kotlin**
+- 🔭 I’m currently working on **HTML and CSS**
 - 💬 Ask me about **Mobil App**
-
+- 💬 Ask me about **Web Disagn**
 - 📫 How to reach me **msametcagli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
