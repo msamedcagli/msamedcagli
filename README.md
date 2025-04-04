@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Samed</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-[![MasterHead]https://www.google.com/imgres?q=software%20&imgurl=https%3A%2F%2Fstarkcloud.com%2Fwp-content%2Fuploads%2F2024%2F12%2FLa-tecnologia-del-futuro-5-avances-que-cambiaran-el-mundo-2000x1200-1.jpg&imgrefurl=https%3A%2F%2Fstarkcloud.com%2Fstarkcloud-blog%2Fque-es-el-desarrollo-de-software%2F&docid=IS45U2J9aW0SbM&tbnid=zY9CRXESa1iUgM&vet=12ahUKEwjm8s_gsr6MAxXzVPEDHbOWGawQM3oECFEQAA..i&w=2000&h=1200&hcb=2&ved=2ahUKEwjm8s_gsr6MAxXzVPEDHbOWGawQM3oECFEQAA
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/msamedcagli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msamedcagli" height="30" width="40" /></a>
