@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **C,Java,Python and Kotlin**
 
+- 💬 Ask me about **Mobil App**
 - 💬 Ask me about **Web Disagn**
 
 - 🔭 I’m currently working on **HTML and CSS**
-
-- 💬 Ask me about **Mobil App**
+- 💬 Ask me about **Web Disagn**
 
 - 📫 How to reach me **msametcagli@gmail.com**
 
