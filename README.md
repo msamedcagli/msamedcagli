@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samed</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Samed</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **C,Java,Python and Kotlin**
