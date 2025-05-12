@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msamedcagli&label=Profile%20views&color=0e75b6&style=flat" alt="msamedcagli" /> </p>
 - 🔭 I’m currently working with **C, Java, Python, Kotlin, HTML, and CSS**
+<br>
 - 💬 Ask me about **Mobile App Development** and **Web Design**
+<br>
 - 📫 How to reach me: **msametcagli@gmail.com**
 
 
