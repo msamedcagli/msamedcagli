@@ -61,7 +61,7 @@
 
   <div style="text-align: center;">
     <h3>Top Languages:</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamedcagli&show_icons=true&locale=en&layout=compact" alt="msamedcagli" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamedcagli&hide=python&layout=compact&show_icons=true&theme=tokyonight" />
   </div>
 
 </div>
