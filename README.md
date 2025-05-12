@@ -1,6 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="40">, I'm Muhammed Samed</h1>
 <h3 align="center">A Passionate Software Developer from Türkiye</h3>
 
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msamedcagli&label=Profile%20views&color=0e75b6&style=flat" alt="msamedcagli" /> </p>
 - 🔭 I’m currently working with C, Java, Python, Kotlin, HTML, and CSS
 <br>
