@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate Software Developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msamedcagli&label=Profile%20views&color=0e75b6&style=flat" alt="msamedcagli" /> </p>
-- 🔭 I’m currently working with **C, Java, Python, Kotlin, HTML, and CSS**
+- 🔭 I’m currently working with C, Java, Python, Kotlin, HTML, and CSS
 <br>
-- 💬 Ask me about **Mobile App Development** and **Web Design**
+- 💬 Ask me about Mobile App Development and Web Design
 <br>
-- 📫 How to reach me: **msametcagli@gmail.com**
+- 📫 How to reach me: msametcagli@gmail.com
 
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"></h3>
