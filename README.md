@@ -51,7 +51,10 @@
   </a>
 </p>
 
-
+   <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msamedcagli&theme=radical"/>
+   </div>
+  
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamedcagli&hide=python&layout=compact&show_icons=true&theme=tokyonight"/>
   </div>
