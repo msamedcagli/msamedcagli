@@ -8,7 +8,7 @@
 <br>
 - 💬Ask me about Mobile App Development and Web Design
 <br>
-- 📫How to reach me: msametcagli@gmail.com 
+- 📫How to reach me: msamedcagli@gmail.com 
   </div>
 
 
