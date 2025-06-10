@@ -1,7 +1,10 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="40"></h1>
 <h3 align="center">A Passionate Software Developer from Türkiye</h3>
 
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msamedcagli&label=Profile%20views&color=0e75b6&style=flat" alt="msamedcagli" /> </p>
+-->
+
 <br>
 <div align="center">
    - 🔭I’m currently working with C, Java, Python, Kotlin, HTML, and CSS
