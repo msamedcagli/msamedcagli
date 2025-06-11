@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-   - 🔭I’m currently working with C, Java, Python, Kotlin, HTML, and CSS
+   - 🔭I’m currently working with Java, Python, Kotlin, HTML, CSS and JavaScript
 <br>
 - 💬Ask me about Mobile App Development and Web Design
 <br>
@@ -25,9 +25,6 @@
 
 <h3 align="center">Languages and Tools: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20></h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
