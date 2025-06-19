@@ -55,11 +55,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
   </a>
 </p>
-
+<!-- ->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamedcagli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=msamedcagli&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
 </div>
 
 ###
