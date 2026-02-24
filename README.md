@@ -2,24 +2,6 @@
 <h3 align="center">A Passionate Software Developer from Türkiye</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msamedcagli&label=Profile%20views&color=0e75b6&style=flat" alt="msamedcagli" /> </p>
-<br>
-<div align="center">
-  
-  <p>
-    💬 <strong>Ask me about:</strong> RESTful APIs, Mobile App Development and Web Development  
-    <br>
-    📫 <strong>Contact:</strong> msamedcagli@gmail.com
-  </p>
-  
-</div>
-
-<h3 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"></h3>
-<p align="center">
-  <a href="https://linkedin.com/in/msamedcagli" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
 
 <h3 align="center">Languages and Tools: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"></h3>
 <p align="center">
@@ -52,6 +34,21 @@
   </a>
 </p>
 
+<br>
+<div align="center">
+  
+  <p>
+    📫 <strong>Contact:</strong> msamedcagli@gmail.com
+  </p>
+  
+</div>
+
+<h3 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"></h3>
+<p align="center">
+  <a href="https://linkedin.com/in/msamedcagli" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
