@@ -50,6 +50,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=msamedcagli&theme=merko&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 ---
 
 <div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"></div>
